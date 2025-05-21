@@ -267,6 +267,8 @@ $order = array("0000000001", "0000000002");
 $startDate = "20240520";
 $endDate = "20240525";
 
+
+
 // Appel de la méthode pour obtenir les informations de suivi du transporteur
 $apiWestcon->getCarrierTracking($orderNumber, $carrier, $trackingNumber);
 // Appel de la méthode pour obtenir les détails de l'expédition
