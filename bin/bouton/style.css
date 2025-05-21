@@ -1,0 +1,6 @@
+#b1{
+	-fx-background-image:url("../bouton/unpressed.jpg");
+}
+#b2{
+	-fx-background-image:url("../bouton/pressed.jpg");
+}
